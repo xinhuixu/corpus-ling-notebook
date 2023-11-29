@@ -1,1 +1,1 @@
-# corpus-ling-notebook
+# Notes on Corpus Linguistics
