@@ -1,1 +1,1 @@
-# Notes on Corpus Linguistics
+# notes on corpus linguistics
